@@ -22,4 +22,3 @@ async def on_member_join(member):
         print(f'Error assigning role: {e}')
 
 bot.run('MTEyOTE5OTEyMzcyMDA0NDU3NA.Gk3f9R.Byu9PFv-DdibSi5s4Ts1kJak47hAni7VX_3EOo')
-#Under Ramin Azim Enterspise
